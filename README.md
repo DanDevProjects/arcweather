@@ -1,7 +1,12 @@
 # ArcWeather
-<p align="right">
-  <img src="arcweather.png" alt="ArcWeather Icon" width="50" height="50">
-</p>
+<a href="https://ibb.co/5hWtC2Hh">
+  <img src="https://i.ibb.co/7tJ8Bbmt/obtainium-badge.png" alt="Get it on Obtainium" height="100">
+</a>
+<a href="https://ibb.co<a href="https://ibb.co/fzXH2WN8">
+  <img src="https://i.ibb.co/fzXH2WN8/get-it-on-github.png" alt="Get it on GitHub" height="100">
+</a>!
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DanDevProjects/arcweather/total)
 
 ArcWeather is a professional-grade, lightweight meteorological web application built with modern web standards and Material 3 design principles. It provides real-time weather tracking, extended 14-day forecasts, air quality composition analysis, and an interactive storm radar map without requiring heavy backend infrastructure.
 
@@ -58,6 +63,9 @@ Arcweather uses free and Open-source API providers.
 - Precipitation Radar: RainViewer
 - Geocoding and Reverse Geocoding: Open-Meteo Geocoding & BigDataCloud
 - Map: Esri World Canvas (Light/Dark)
+
+## Installing
+You can Download from GitHub or [Install / Update with Obtainium](https://apps.obtainium.imranr.dev/?url=https://github.com/DanDevProjects/arcweather)
 
 ## Contributing
 Contributions, Bug reports and features requests are welcome. Feel free to Contribute in the project or submit a pull request if you like to improve the codebase.
