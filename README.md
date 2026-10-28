@@ -1,10 +1,4 @@
 # ArcWeather
-<a href="https://ibb.co/5hWtC2Hh">
-  <img src="https://i.ibb.co/7tJ8Bbmt/obtainium-badge.png" alt="Get it on Obtainium" height="100">
-</a>
-<a href="https://ibb.co<a href="https://ibb.co/fzXH2WN8">
-  <img src="https://i.ibb.co/fzXH2WN8/get-it-on-github.png" alt="Get it on GitHub" height="100">
-</a>!
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DanDevProjects/arcweather/total)
 
