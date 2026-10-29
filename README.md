@@ -1,7 +1,5 @@
 # ArcWeather
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DanDevProjects/arcweather/total)
-
 ArcWeather is a professional-grade, lightweight meteorological web application built with modern web standards and Material 3 design principles. It provides real-time weather tracking, extended 14-day forecasts, air quality composition analysis, and an interactive storm radar map without requiring heavy backend infrastructure.
 
 ---
